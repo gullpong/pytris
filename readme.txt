@@ -10,7 +10,8 @@ Author:
 
 Usage:
 	Run file "game.py" with Python
-	
+
+	$ pip install -r requirements.txt
 	$ python game.py
 
 Controls:
